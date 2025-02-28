@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Sergiolf03/Sergiolf03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭🌱 My name is Sergio López Fernández, and I am currently studying a higher-level vocational training program in Web Application Development (DAW) at IES Gregorio Prieto (Valdepeñas). .
 
 FOTO
