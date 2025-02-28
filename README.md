@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-- 🔭🌱 My name is Sergio López Fernández, and I am currently studying a higher-level vocational training program in Web Application Development (DAW) at IES Gregorio Prieto (Valdepeñas). .
+🔭🌱 My name is Sergio López Fernández, and I am currently studying a higher-level vocational training program in Web Application Development (DAW) at IES Gregorio Prieto (Valdepeñas). .
 
 FOTO
 
@@ -14,7 +13,7 @@ I am currently learning different languages and technologies, including:
 - Some Docker
 
 
-- 📬 Contact
+##📬 Contact
 Feel free to contact me for collaborations, discussions, or any exciting opportunities
 
 - Correo: sergiolf03@gmail.com
