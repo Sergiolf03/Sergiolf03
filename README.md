@@ -2,9 +2,6 @@
 ## Hi there 👋
 ✨My name is Sergio López Fernández, and I am currently studying a higher-level vocational training program in Web Application Development (DAW) at IES Gregorio Prieto (Valdepeñas) ✨
 
-![Image](https://github.com/user-attachments/assets/670ffcab-df36-44b4-91d6-0c94781aa4f2)
-
-
 I am currently learning different languages and technologies, including:
 - HTML
 - CSS
