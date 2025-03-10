@@ -28,6 +28,6 @@ Feel free to contact me for collaborations, discussions, or any exciting opportu
 
 - GitHub: https://github.com/Sergiolf03
 
-- LinkedIn:
+- LinkedIn: www.linkedin.com/in/sergio-lópez-fernández-2518b5355
 
 Thanks for visiting my repository! 🚀
